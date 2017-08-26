@@ -19,4 +19,7 @@ ________________________________
 
 ________________________________
 
-Running for testing (.exe) from "bin" folders or "root". Do not remove or move anything. In each test directx sample, see Help (F1).
+Visual Studio 2008, Microsoft DirectX and NVIDIA Direct3D SDK 10,11 are required for test compilation and assembly.
+
+Running for testing compile "exe" from "bin" folders or "root". Do not remove or move anything. In each test directx sample, see Help (F1).
+
