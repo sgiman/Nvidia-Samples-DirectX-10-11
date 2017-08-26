@@ -1,10 +1,10 @@
 # Nvidia-Samples-DirectX-10-11
 
-NVIDIA Direct3D SDK 10
+## NVIDIA Direct3D SDK 10
 
-NVIDIA Direct3D SDK 11
+## NVIDIA Direct3D SDK 11
 
-Visual Studio 2008 (C++)
+## Visual Studio 2008 (C++)
 ________________________________
 
 1. Cloth - interactive dynamic cloth (Cloth_LIB.zip + Cloth_MED.zip + Cloth_SRC.zip)
@@ -16,3 +16,9 @@ ________________________________
 4. Hair - dynamic hair (Hair.zip)
 
 5. MetaBalls - metaballs objects (MetaBalls.zip) 
+
+________________________________
+
+Running for testing (.exe) from bin folders or root ...
+Do not remove or move anything.
+In each test directx sample, see Help (F1).
