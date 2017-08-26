@@ -19,6 +19,6 @@ ________________________________
 
 ________________________________
 
-Running for testing (.exe) from bin folders or root ...
+Running for testing (.exe) from ### bin folders or ### root.
 Do not remove or move anything.
 In each test directx sample, see Help (F1).
